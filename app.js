@@ -1,0 +1,1 @@
+const superhero = require('superhero-name-library')
